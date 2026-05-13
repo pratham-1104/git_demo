@@ -5,5 +5,7 @@ public class Main {
         System.out.println("This is a simple Java program.");
         //Hello
         /heelo
+
+        System.out.println("This is a new line added to demonstrate Git.");
     }
 }
